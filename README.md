@@ -4,6 +4,19 @@
 ## 20260321：使用正常
 
 
+# 默认设置
+默认IP：192.168.10.1
+
+用户名：root
+
+密码：password
+
+WiFi名称：ImmortalWrt
+
+WiFi密码：123456789
+
+
+
 # 当前最推荐的稳定版 (Current Stable)
 ## 24.10 系列：这是目前最成熟的主流版本。
 
@@ -15,16 +28,4 @@
 	最新小版本：23.05.7
 	历史小版本：23.05.6, 23.05.4, 23.05.3 等
 
-
-默认IP：192.168.10.1
-
-用户名：root
-
-密码：password
-
-WiFi名称：ImmortalWrt
-
-WiFi密码：123456789
-
-# 好用稳定
-https://github.com/OldCoding/MI-R3G-immortalwrt-build.git
+	
