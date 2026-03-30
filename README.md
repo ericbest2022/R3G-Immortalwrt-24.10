@@ -1,14 +1,12 @@
-# MI-R3G-immortalwrt-build
+# MI-R3G-immortalwrt-padavanonly24.10-6.6
 
-# 开发版本
-## 20260321：使用正常
+# 测试中
 
 
-## Version 
-
-REPO_URL: https://github.com/immortalwrt/immortalwrt.git
-
-REPO_BRANCH: openwrt-master
+## Version
+REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
+  
+  REPO_BRANCH: openwrt-24.10-6.6
 
 
 # 默认设置
