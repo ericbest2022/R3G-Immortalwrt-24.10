@@ -3,7 +3,7 @@
 # 测试中
 
 
-## 原有插件
+# 原有插件
 	luci-app-ssr-plus
 	luci-app-adguardhome
 	luci-app-mosdns
@@ -15,7 +15,7 @@
 	luci-app-vlmcsd
 
 
-## 删除插件
+# 删除插件
 	luci-app-ssr-plus
 	luci-app-adguardhome
 	luci-app-mosdns
@@ -26,7 +26,13 @@
 	luci-app-vlmcsd
 
 
-## Version
+# 编译环境
+
+    借用【OldCoding/MI-R3G-immortalwrt-build】，分支改成了24.10
+    https://github.com/OldCoding/MI-R3G-immortalwrt-build
+
+
+# Version
 	REPO_URL: https://github.com/immortalwrt/immortalwrt
 	REPO_BRANCH: openwrt-24.10
 
