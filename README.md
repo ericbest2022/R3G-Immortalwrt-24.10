@@ -3,16 +3,8 @@
 # 测试中
 
 
-# 原有插件
-	luci-app-ssr-plus
-	luci-app-adguardhome
-	luci-app-mosdns
-	luci-app-ddns
-	luci-app-smartdns
-	luci-app-watchcat
-	luci-app-openlist
-	luci-app-vlmcsd
-	
+# 保留插件
+
 	luci-app-upnp
 
 
