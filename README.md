@@ -11,8 +11,9 @@
 	luci-app-smartdns
 	luci-app-watchcat
 	luci-app-openlist
-	luci-app-upnp
 	luci-app-vlmcsd
+	
+	luci-app-upnp
 
 
 # 删除插件
